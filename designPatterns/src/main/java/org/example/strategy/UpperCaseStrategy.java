@@ -1,9 +1,0 @@
-package org.example.strategy;
-
-public class UpperCaseStrategy implements TextFormatter{
-
-    @Override
-    public String format(String text) {
-        return text.toUpperCase();
-    }
-}
