@@ -9,7 +9,7 @@ You already have working code, but:
 
 Without Adapter
 * You rewrite client code
-* You fork or modify librari=y
+* You fork or modify library
 * You introduce ugly if/else hacks
 
 Adapter solves this mismatch cleanly
@@ -17,7 +17,7 @@ Adapter solves this mismatch cleanly
 ### Real-World Analogy
 * Laptop needs USB-C
 * Power socket gives 3-pin
-* Yo use a power adapter
+* You use a power adapter
 
 Socket == Adaptee
 
