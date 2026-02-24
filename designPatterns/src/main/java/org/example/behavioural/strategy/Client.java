@@ -1,4 +1,4 @@
-package org.example.strategy;
+package org.example.behavioural.strategy;
 
 public class Client {
     public static void main(String[] args) {
