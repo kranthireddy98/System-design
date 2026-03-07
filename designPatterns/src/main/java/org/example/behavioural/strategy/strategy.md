@@ -1,6 +1,6 @@
 # What is the Strategy Pattern?
 
-Strategy pattern defines a family of algorithms, encapsulates ech one,
+Strategy pattern defines a family of algorithms, encapsulates each one,
 and makes them interchangeable at runtime.
 
 

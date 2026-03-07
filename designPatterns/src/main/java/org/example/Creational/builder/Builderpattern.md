@@ -1,5 +1,6 @@
 ## Builder Pattern (Creational)
-The Builder Design Pattern is a creational pattern that lets you construct complex objects step-by-step, separating the construction logic from the final representation.
+The Builder Design Pattern is a creational pattern that lets you construct complex 
+objects step-by-step, separating the construction logic from the final representation.
 
 ![img.png](img.png)
 
